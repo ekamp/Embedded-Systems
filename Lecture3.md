@@ -28,4 +28,6 @@
   - P1FG has the interrupt flags
   - P1IE enables interrupts
   - P1ES sets rising 0 or falling 1
-  
+
+
+
