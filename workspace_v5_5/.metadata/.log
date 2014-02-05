@@ -1,0 +1,754 @@
+!SESSION 2014-01-27 19:50:47.293 -----------------------------------------------
+eclipse.buildId=M20120914-1540
+java.version=1.6.0_13
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -product com.ti.ccstudio.branding.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product com.ti.ccstudio.branding.product
+
+!ENTRY org.eclipse.ui 2 0 2014-01-27 19:51:03.247
+!MESSAGE Warnings while parsing the viewer contributions from the 'org.eclipse.ui.popupMenus' extension point
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-01-27 19:51:03.247
+!MESSAGE invalid keybinding: Cannot bind to an incomplete key sequence: plug-in='org.eclipse.cdt.debug.ui', id='AUTOGEN:::org.eclipse.cdt.debug.ui.CEditorRulerActions/org.eclipse.cdt.debug.internal.ui.actions.CBreakpointPropertiesRulerActionDelegate'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-01-27 19:51:03.247
+!MESSAGE invalid keybinding: Cannot bind to an incomplete key sequence: plug-in='org.eclipse.cdt.debug.ui', id='AUTOGEN:::org.eclipse.cdt.debug.ui.CEditorRulerActions/org.eclipse.cdt.debug.internal.ui.actions.EnableDisableBreakpointRulerActionDelegate'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-01-27 19:51:03.247
+!MESSAGE invalid keybinding: Cannot bind to an incomplete key sequence: plug-in='org.eclipse.cdt.debug.ui', id='AUTOGEN:::org.eclipse.cdt.debug.ui.CEditorRulerActions/org.eclipse.cdt.debug.ui.actions.RulerCreateBreakpointInteractiveAction'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-01-27 19:51:03.247
+!MESSAGE invalid keybinding: Cannot bind to an incomplete key sequence: plug-in='org.eclipse.cdt.debug.ui', id='AUTOGEN:::org.eclipse.cdt.debug.ui.AsmEditorRulerActions/org.eclipse.cdt.debug.internal.ui.actions.asm.CBreakpointPropertiesRulerActionDelegate'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-01-27 19:51:03.247
+!MESSAGE invalid keybinding: Cannot bind to an incomplete key sequence: plug-in='org.eclipse.cdt.debug.ui', id='AUTOGEN:::org.eclipse.cdt.debug.ui.AsmEditorRulerActions/org.eclipse.cdt.debug.internal.ui.actions.asm.EnableDisableBreakpointRulerActionDelegate'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-01-27 19:51:03.247
+!MESSAGE invalid keybinding: Cannot bind to an incomplete key sequence: plug-in='org.eclipse.cdt.debug.ui', id='AUTOGEN:::org.eclipse.cdt.debug.ui.AsmEditorRulerActions/org.eclipse.cdt.debug.ui.actions.asm.RulerCreateBreakpointInteractiveAction'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-01-27 19:51:03.247
+!MESSAGE invalid keybinding: Cannot bind to an incomplete key sequence: plug-in='org.eclipse.cdt.dsf.ui', id='AUTOGEN:::org.eclipse.cdt.dsf.debug.ui.disassemblyRulerActions/org.eclipse.debug.ui.actions.RulerAddBreakpointAction'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-01-27 19:51:03.247
+!MESSAGE invalid keybinding: Cannot bind to an incomplete key sequence: plug-in='org.eclipse.cdt.dsf.ui', id='org.eclipse.cdt.dsf.debug.ui.disassembly.commands.rulerToggleBreakpoint'
+!SESSION 2014-01-29 15:17:49.067 -----------------------------------------------
+eclipse.buildId=M20120914-1540
+java.version=1.6.0_13
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -product com.ti.ccstudio.branding.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product com.ti.ccstudio.branding.product
+
+!ENTRY org.eclipse.ui 2 0 2014-01-29 15:23:03.840
+!MESSAGE Warnings while parsing the viewer contributions from the 'org.eclipse.ui.popupMenus' extension point
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-01-29 15:23:03.840
+!MESSAGE invalid keybinding: Cannot bind to an incomplete key sequence: plug-in='org.eclipse.cdt.debug.ui', id='AUTOGEN:::org.eclipse.cdt.debug.ui.CEditorRulerActions/org.eclipse.cdt.debug.internal.ui.actions.CBreakpointPropertiesRulerActionDelegate'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-01-29 15:23:03.840
+!MESSAGE invalid keybinding: Cannot bind to an incomplete key sequence: plug-in='org.eclipse.cdt.debug.ui', id='AUTOGEN:::org.eclipse.cdt.debug.ui.CEditorRulerActions/org.eclipse.cdt.debug.internal.ui.actions.EnableDisableBreakpointRulerActionDelegate'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-01-29 15:23:03.840
+!MESSAGE invalid keybinding: Cannot bind to an incomplete key sequence: plug-in='org.eclipse.cdt.debug.ui', id='AUTOGEN:::org.eclipse.cdt.debug.ui.CEditorRulerActions/org.eclipse.cdt.debug.ui.actions.RulerCreateBreakpointInteractiveAction'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-01-29 15:23:03.840
+!MESSAGE invalid keybinding: Cannot bind to an incomplete key sequence: plug-in='org.eclipse.cdt.debug.ui', id='AUTOGEN:::org.eclipse.cdt.debug.ui.AsmEditorRulerActions/org.eclipse.cdt.debug.internal.ui.actions.asm.CBreakpointPropertiesRulerActionDelegate'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-01-29 15:23:03.840
+!MESSAGE invalid keybinding: Cannot bind to an incomplete key sequence: plug-in='org.eclipse.cdt.debug.ui', id='AUTOGEN:::org.eclipse.cdt.debug.ui.AsmEditorRulerActions/org.eclipse.cdt.debug.internal.ui.actions.asm.EnableDisableBreakpointRulerActionDelegate'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-01-29 15:23:03.840
+!MESSAGE invalid keybinding: Cannot bind to an incomplete key sequence: plug-in='org.eclipse.cdt.debug.ui', id='AUTOGEN:::org.eclipse.cdt.debug.ui.AsmEditorRulerActions/org.eclipse.cdt.debug.ui.actions.asm.RulerCreateBreakpointInteractiveAction'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-01-29 15:23:03.840
+!MESSAGE invalid keybinding: Cannot bind to an incomplete key sequence: plug-in='org.eclipse.cdt.dsf.ui', id='AUTOGEN:::org.eclipse.cdt.dsf.debug.ui.disassemblyRulerActions/org.eclipse.debug.ui.actions.RulerAddBreakpointAction'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-01-29 15:23:03.841
+!MESSAGE invalid keybinding: Cannot bind to an incomplete key sequence: plug-in='org.eclipse.cdt.dsf.ui', id='org.eclipse.cdt.dsf.debug.ui.disassembly.commands.rulerToggleBreakpoint'
+
+!ENTRY org.eclipse.ui 4 4 2014-01-29 15:28:38.017
+!MESSAGE Part already exists in page layout: org.eclipse.ui.console.ConsoleView.
+
+!ENTRY org.eclipse.ui 4 4 2014-01-29 15:28:38.345
+!MESSAGE Part already exists in page layout: org.eclipse.ui.views.ProblemView.
+
+!ENTRY org.eclipse.cdt.core 1 0 2014-01-29 15:28:39.050
+!MESSAGE Indexed 'LED_Blink' (0 sources, 0 headers) in 0.05 sec: 0 declarations; 0 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0.00%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2014-01-29 15:31:14.623
+!MESSAGE Indexed 'BLINK' (0 sources, 0 headers) in 0.04 sec: 0 declarations; 0 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0.00%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2014-01-29 15:31:16.861
+!MESSAGE Indexed 'BLINK' (0 sources, 0 headers) in 0.00 sec: 0 declarations; 0 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0.00%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2014-01-29 15:32:26.901
+!MESSAGE Indexed 'Project1' (1 sources, 4 headers) in 0.98 sec: 174 declarations; 551 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0.00%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2014-01-29 15:41:36.976
+!MESSAGE Indexed 'Project2' (1 sources, 0 headers) in 0.00 sec: 2 declarations; 0 references; 1 unresolved inclusions; 0 syntax errors; 3 unresolved names (60.00%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2014-01-29 15:41:37.466
+!MESSAGE Indexed 'Project2' (1 sources, 4 headers) in 0.10 sec: 173 declarations; 546 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0.00%)
+
+!ENTRY org.eclipse.cdt.core 4 0 2014-01-29 15:45:08.843
+!MESSAGE Error
+!STACK 0
+java.nio.channels.ClosedByInterruptException
+	at java.nio.channels.spi.AbstractInterruptibleChannel.end(Unknown Source)
+	at sun.nio.ch.FileChannelImpl.size(Unknown Source)
+	at org.eclipse.cdt.internal.core.parser.scanner.FileCharArray.create(FileCharArray.java:44)
+	at org.eclipse.cdt.internal.core.parser.InternalParserUtil.createFileContent(InternalParserUtil.java:247)
+	at org.eclipse.cdt.internal.core.parser.InternalParserUtil.createExternalFileContent(InternalParserUtil.java:233)
+	at org.eclipse.cdt.core.parser.FileContent.createForExternalFileLocation(FileContent.java:126)
+	at org.eclipse.cdt.core.parser.FileContent.createForExternalFileLocation(FileContent.java:118)
+	at org.eclipse.cdt.internal.core.parser.SavedFilesProvider.getContentForInclusion(SavedFilesProvider.java:42)
+	at org.eclipse.cdt.internal.core.parser.scanner.CPreprocessor$1.checkFile(CPreprocessor.java:157)
+	at org.eclipse.cdt.internal.core.parser.scanner.CPreprocessor$1.checkFile(CPreprocessor.java:1)
+	at org.eclipse.cdt.internal.core.parser.scanner.CPreprocessor.findInclusion(CPreprocessor.java:1124)
+	at org.eclipse.cdt.internal.core.parser.scanner.CPreprocessor.executeInclude(CPreprocessor.java:1472)
+	at org.eclipse.cdt.internal.core.parser.scanner.CPreprocessor.executeDirective(CPreprocessor.java:1248)
+	at org.eclipse.cdt.internal.core.parser.scanner.CPreprocessor.internalFetchToken(CPreprocessor.java:879)
+	at org.eclipse.cdt.internal.core.parser.scanner.CPreprocessor.fetchToken(CPreprocessor.java:603)
+	at org.eclipse.cdt.internal.core.parser.scanner.CPreprocessor.nextToken(CPreprocessor.java:700)
+	at org.eclipse.cdt.internal.core.dom.parser.AbstractGNUSourceCodeParser.fetchToken(AbstractGNUSourceCodeParser.java:273)
+	at org.eclipse.cdt.internal.core.dom.parser.AbstractGNUSourceCodeParser.nextToken(AbstractGNUSourceCodeParser.java:297)
+	at org.eclipse.cdt.internal.core.dom.parser.AbstractGNUSourceCodeParser.acceptInactiveCodeBoundary(AbstractGNUSourceCodeParser.java:358)
+	at org.eclipse.cdt.internal.core.dom.parser.AbstractGNUSourceCodeParser.declarationList(AbstractGNUSourceCodeParser.java:1319)
+	at org.eclipse.cdt.internal.core.dom.parser.AbstractGNUSourceCodeParser.parseTranslationUnit(AbstractGNUSourceCodeParser.java:1292)
+	at org.eclipse.cdt.internal.core.dom.parser.AbstractGNUSourceCodeParser.translationUnit(AbstractGNUSourceCodeParser.java:1287)
+	at org.eclipse.cdt.internal.core.dom.parser.AbstractGNUSourceCodeParser.parse(AbstractGNUSourceCodeParser.java:653)
+	at org.eclipse.cdt.core.dom.parser.AbstractCLikeLanguage.getASTTranslationUnit(AbstractCLikeLanguage.java:149)
+	at org.eclipse.cdt.internal.core.model.TranslationUnit.getAST(TranslationUnit.java:869)
+	at org.eclipse.cdt.internal.core.model.TranslationUnit.getAST(TranslationUnit.java:819)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.rtsc.xdctools.ui.contentassist.RTSCHelpProvider.getFunctionSummaries(Unknown Source)
+	at org.eclipse.rtsc.xdctools.ui.contentassist.RTSCHelpProvider.getFunctionInfo(Unknown Source)
+	at org.eclipse.rtsc.xdctools.ui.contentassist.RTSCHelpProvider.getFunctionInfo(Unknown Source)
+	at org.eclipse.cdt.internal.ui.text.CHelpSettings.getFunctionInfo(CHelpSettings.java:121)
+	at org.eclipse.cdt.internal.ui.CHelpProviderManager.getFunctionInfo(CHelpProviderManager.java:163)
+	at org.eclipse.cdt.internal.ui.text.c.hover.CDocHover.getHoverInfo(CDocHover.java:81)
+	at org.eclipse.cdt.internal.ui.text.c.hover.AbstractCEditorTextHover.getHoverInfo2(AbstractCEditorTextHover.java:84)
+	at org.eclipse.cdt.internal.ui.text.c.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:144)
+	at org.eclipse.cdt.internal.ui.text.c.hover.CEditorTextHoverProxy.getHoverInfo2(CEditorTextHoverProxy.java:84)
+	at org.eclipse.jface.text.TextViewerHoverManager$4.run(TextViewerHoverManager.java:166)
+
+!ENTRY org.eclipse.cdt.core 4 0 2014-01-29 16:10:21.422
+!MESSAGE Error
+!STACK 0
+java.nio.channels.ClosedByInterruptException
+	at java.nio.channels.spi.AbstractInterruptibleChannel.end(Unknown Source)
+	at sun.nio.ch.FileChannelImpl.size(Unknown Source)
+	at org.eclipse.cdt.internal.core.parser.scanner.FileCharArray.create(FileCharArray.java:44)
+	at org.eclipse.cdt.internal.core.parser.InternalParserUtil.createFileContent(InternalParserUtil.java:247)
+	at org.eclipse.cdt.internal.core.parser.InternalParserUtil.createExternalFileContent(InternalParserUtil.java:233)
+	at org.eclipse.cdt.core.parser.FileContent.createForExternalFileLocation(FileContent.java:126)
+	at org.eclipse.cdt.core.parser.FileContent.createForExternalFileLocation(FileContent.java:118)
+	at org.eclipse.cdt.internal.core.parser.SavedFilesProvider.getContentForInclusion(SavedFilesProvider.java:42)
+	at org.eclipse.cdt.internal.core.parser.scanner.CPreprocessor$1.checkFile(CPreprocessor.java:157)
+	at org.eclipse.cdt.internal.core.parser.scanner.CPreprocessor$1.checkFile(CPreprocessor.java:1)
+	at org.eclipse.cdt.internal.core.parser.scanner.CPreprocessor.findInclusion(CPreprocessor.java:1093)
+	at org.eclipse.cdt.internal.core.parser.scanner.CPreprocessor.executeInclude(CPreprocessor.java:1472)
+	at org.eclipse.cdt.internal.core.parser.scanner.CPreprocessor.executeDirective(CPreprocessor.java:1248)
+	at org.eclipse.cdt.internal.core.parser.scanner.CPreprocessor.internalFetchToken(CPreprocessor.java:879)
+	at org.eclipse.cdt.internal.core.parser.scanner.CPreprocessor.fetchToken(CPreprocessor.java:603)
+	at org.eclipse.cdt.internal.core.parser.scanner.CPreprocessor.nextToken(CPreprocessor.java:700)
+	at org.eclipse.cdt.internal.core.dom.parser.AbstractGNUSourceCodeParser.fetchToken(AbstractGNUSourceCodeParser.java:273)
+	at org.eclipse.cdt.internal.core.dom.parser.AbstractGNUSourceCodeParser.nextToken(AbstractGNUSourceCodeParser.java:297)
+	at org.eclipse.cdt.internal.core.dom.parser.AbstractGNUSourceCodeParser.acceptInactiveCodeBoundary(AbstractGNUSourceCodeParser.java:358)
+	at org.eclipse.cdt.internal.core.dom.parser.AbstractGNUSourceCodeParser.declarationList(AbstractGNUSourceCodeParser.java:1319)
+	at org.eclipse.cdt.internal.core.dom.parser.AbstractGNUSourceCodeParser.parseTranslationUnit(AbstractGNUSourceCodeParser.java:1292)
+	at org.eclipse.cdt.internal.core.dom.parser.AbstractGNUSourceCodeParser.translationUnit(AbstractGNUSourceCodeParser.java:1287)
+	at org.eclipse.cdt.internal.core.dom.parser.AbstractGNUSourceCodeParser.parse(AbstractGNUSourceCodeParser.java:653)
+	at org.eclipse.cdt.core.dom.parser.AbstractCLikeLanguage.getASTTranslationUnit(AbstractCLikeLanguage.java:149)
+	at org.eclipse.cdt.internal.core.model.TranslationUnit.getAST(TranslationUnit.java:869)
+	at org.eclipse.cdt.internal.core.model.TranslationUnit.getAST(TranslationUnit.java:819)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.rtsc.xdctools.ui.contentassist.RTSCHelpProvider.getFunctionSummaries(Unknown Source)
+	at org.eclipse.rtsc.xdctools.ui.contentassist.RTSCHelpProvider.getFunctionInfo(Unknown Source)
+	at org.eclipse.rtsc.xdctools.ui.contentassist.RTSCHelpProvider.getFunctionInfo(Unknown Source)
+	at org.eclipse.cdt.internal.ui.text.CHelpSettings.getFunctionInfo(CHelpSettings.java:121)
+	at org.eclipse.cdt.internal.ui.CHelpProviderManager.getFunctionInfo(CHelpProviderManager.java:163)
+	at org.eclipse.cdt.internal.ui.text.c.hover.CDocHover.getHoverInfo(CDocHover.java:81)
+	at org.eclipse.cdt.internal.ui.text.c.hover.AbstractCEditorTextHover.getHoverInfo2(AbstractCEditorTextHover.java:84)
+	at org.eclipse.cdt.internal.ui.text.c.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:144)
+	at org.eclipse.cdt.internal.ui.text.c.hover.CEditorTextHoverProxy.getHoverInfo2(CEditorTextHoverProxy.java:84)
+	at org.eclipse.jface.text.TextViewerHoverManager$4.run(TextViewerHoverManager.java:166)
+
+!ENTRY org.eclipse.cdt.core 4 0 2014-01-29 16:10:21.425
+!MESSAGE Error
+!STACK 0
+java.nio.channels.ClosedByInterruptException
+	at java.nio.channels.spi.AbstractInterruptibleChannel.end(Unknown Source)
+	at sun.nio.ch.FileChannelImpl.size(Unknown Source)
+	at org.eclipse.cdt.internal.core.parser.scanner.FileCharArray.create(FileCharArray.java:44)
+	at org.eclipse.cdt.internal.core.parser.InternalParserUtil.createFileContent(InternalParserUtil.java:247)
+	at org.eclipse.cdt.internal.core.parser.InternalParserUtil.createExternalFileContent(InternalParserUtil.java:233)
+	at org.eclipse.cdt.core.parser.FileContent.createForExternalFileLocation(FileContent.java:126)
+	at org.eclipse.cdt.core.parser.FileContent.createForExternalFileLocation(FileContent.java:118)
+	at org.eclipse.cdt.internal.core.parser.SavedFilesProvider.getContentForInclusion(SavedFilesProvider.java:42)
+	at org.eclipse.cdt.internal.core.parser.scanner.CPreprocessor$1.checkFile(CPreprocessor.java:157)
+	at org.eclipse.cdt.internal.core.parser.scanner.CPreprocessor$1.checkFile(CPreprocessor.java:1)
+	at org.eclipse.cdt.internal.core.parser.scanner.CPreprocessor.findInclusion(CPreprocessor.java:1124)
+	at org.eclipse.cdt.internal.core.parser.scanner.CPreprocessor.executeInclude(CPreprocessor.java:1472)
+	at org.eclipse.cdt.internal.core.parser.scanner.CPreprocessor.executeDirective(CPreprocessor.java:1248)
+	at org.eclipse.cdt.internal.core.parser.scanner.CPreprocessor.internalFetchToken(CPreprocessor.java:879)
+	at org.eclipse.cdt.internal.core.parser.scanner.CPreprocessor.fetchToken(CPreprocessor.java:603)
+	at org.eclipse.cdt.internal.core.parser.scanner.CPreprocessor.nextToken(CPreprocessor.java:700)
+	at org.eclipse.cdt.internal.core.dom.parser.AbstractGNUSourceCodeParser.fetchToken(AbstractGNUSourceCodeParser.java:273)
+	at org.eclipse.cdt.internal.core.dom.parser.AbstractGNUSourceCodeParser.nextToken(AbstractGNUSourceCodeParser.java:297)
+	at org.eclipse.cdt.internal.core.dom.parser.AbstractGNUSourceCodeParser.acceptInactiveCodeBoundary(AbstractGNUSourceCodeParser.java:358)
+	at org.eclipse.cdt.internal.core.dom.parser.AbstractGNUSourceCodeParser.declarationList(AbstractGNUSourceCodeParser.java:1319)
+	at org.eclipse.cdt.internal.core.dom.parser.AbstractGNUSourceCodeParser.parseTranslationUnit(AbstractGNUSourceCodeParser.java:1292)
+	at org.eclipse.cdt.internal.core.dom.parser.AbstractGNUSourceCodeParser.translationUnit(AbstractGNUSourceCodeParser.java:1287)
+	at org.eclipse.cdt.internal.core.dom.parser.AbstractGNUSourceCodeParser.parse(AbstractGNUSourceCodeParser.java:653)
+	at org.eclipse.cdt.core.dom.parser.AbstractCLikeLanguage.getASTTranslationUnit(AbstractCLikeLanguage.java:149)
+	at org.eclipse.cdt.internal.core.model.TranslationUnit.getAST(TranslationUnit.java:869)
+	at org.eclipse.cdt.internal.core.model.TranslationUnit.getAST(TranslationUnit.java:819)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.rtsc.xdctools.ui.contentassist.RTSCHelpProvider.getFunctionSummaries(Unknown Source)
+	at org.eclipse.rtsc.xdctools.ui.contentassist.RTSCHelpProvider.getFunctionInfo(Unknown Source)
+	at org.eclipse.rtsc.xdctools.ui.contentassist.RTSCHelpProvider.getFunctionInfo(Unknown Source)
+	at org.eclipse.cdt.internal.ui.text.CHelpSettings.getFunctionInfo(CHelpSettings.java:121)
+	at org.eclipse.cdt.internal.ui.CHelpProviderManager.getFunctionInfo(CHelpProviderManager.java:163)
+	at org.eclipse.cdt.internal.ui.text.c.hover.CDocHover.getHoverInfo(CDocHover.java:81)
+	at org.eclipse.cdt.internal.ui.text.c.hover.AbstractCEditorTextHover.getHoverInfo2(AbstractCEditorTextHover.java:84)
+	at org.eclipse.cdt.internal.ui.text.c.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:144)
+	at org.eclipse.cdt.internal.ui.text.c.hover.CEditorTextHoverProxy.getHoverInfo2(CEditorTextHoverProxy.java:84)
+	at org.eclipse.jface.text.TextViewerHoverManager$4.run(TextViewerHoverManager.java:166)
+
+!ENTRY com.ti.ccstudio.debug 1 0 2014-01-29 16:17:07.786
+!MESSAGE DS_ERROR: MSP430: Can't Run Target CPU: Could not read Enhanced Emulation Module register
+
+
+!ENTRY com.ti.ccstudio.debug 1 0 2014-01-29 16:22:29.777
+!MESSAGE DS_ERROR: MSP430: GEL: Encountered a problem loading file: C:\Users\Sharlina\workspace_v5_5\Project2\Debug\Project2.out Could not open file
+
+
+!ENTRY com.ti.ccstudio.debug 1 0 2014-01-29 16:42:04.228
+!MESSAGE DS_ERROR: MSP430: Can't Run Target CPU: Could not read Enhanced Emulation Module register
+
+
+!ENTRY com.ti.ccstudio.debug 1 0 2014-01-29 16:42:04.314
+!MESSAGE DS_ERROR: MSP430: Trouble Reading Memory Block at 0x3fe on Page 0 of Length 0x2: Could not read device memory
+
+!SESSION 2014-02-05 15:35:10.460 -----------------------------------------------
+eclipse.buildId=M20120914-1540
+java.version=1.6.0_13
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -product com.ti.ccstudio.branding.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product com.ti.ccstudio.branding.product
+
+!ENTRY org.eclipse.core.resources 2 10035 2014-02-05 15:35:17.885
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.ui 2 0 2014-02-05 15:35:32.360
+!MESSAGE Warnings while parsing the viewer contributions from the 'org.eclipse.ui.popupMenus' extension point
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-02-05 15:35:32.360
+!MESSAGE invalid keybinding: Cannot bind to an incomplete key sequence: plug-in='org.eclipse.cdt.debug.ui', id='AUTOGEN:::org.eclipse.cdt.debug.ui.CEditorRulerActions/org.eclipse.cdt.debug.internal.ui.actions.CBreakpointPropertiesRulerActionDelegate'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-02-05 15:35:32.360
+!MESSAGE invalid keybinding: Cannot bind to an incomplete key sequence: plug-in='org.eclipse.cdt.debug.ui', id='AUTOGEN:::org.eclipse.cdt.debug.ui.CEditorRulerActions/org.eclipse.cdt.debug.internal.ui.actions.EnableDisableBreakpointRulerActionDelegate'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-02-05 15:35:32.360
+!MESSAGE invalid keybinding: Cannot bind to an incomplete key sequence: plug-in='org.eclipse.cdt.debug.ui', id='AUTOGEN:::org.eclipse.cdt.debug.ui.CEditorRulerActions/org.eclipse.cdt.debug.ui.actions.RulerCreateBreakpointInteractiveAction'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-02-05 15:35:32.360
+!MESSAGE invalid keybinding: Cannot bind to an incomplete key sequence: plug-in='org.eclipse.cdt.debug.ui', id='AUTOGEN:::org.eclipse.cdt.debug.ui.AsmEditorRulerActions/org.eclipse.cdt.debug.internal.ui.actions.asm.CBreakpointPropertiesRulerActionDelegate'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-02-05 15:35:32.360
+!MESSAGE invalid keybinding: Cannot bind to an incomplete key sequence: plug-in='org.eclipse.cdt.debug.ui', id='AUTOGEN:::org.eclipse.cdt.debug.ui.AsmEditorRulerActions/org.eclipse.cdt.debug.internal.ui.actions.asm.EnableDisableBreakpointRulerActionDelegate'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-02-05 15:35:32.360
+!MESSAGE invalid keybinding: Cannot bind to an incomplete key sequence: plug-in='org.eclipse.cdt.debug.ui', id='AUTOGEN:::org.eclipse.cdt.debug.ui.AsmEditorRulerActions/org.eclipse.cdt.debug.ui.actions.asm.RulerCreateBreakpointInteractiveAction'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-02-05 15:35:32.361
+!MESSAGE invalid keybinding: Cannot bind to an incomplete key sequence: plug-in='org.eclipse.cdt.dsf.ui', id='AUTOGEN:::org.eclipse.cdt.dsf.debug.ui.disassemblyRulerActions/org.eclipse.debug.ui.actions.RulerAddBreakpointAction'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-02-05 15:35:32.361
+!MESSAGE invalid keybinding: Cannot bind to an incomplete key sequence: plug-in='org.eclipse.cdt.dsf.ui', id='org.eclipse.cdt.dsf.debug.ui.disassembly.commands.rulerToggleBreakpoint'
+
+!ENTRY com.ti.ccstudio.debug.server 4 214294189 2014-02-05 15:36:09.476
+!MESSAGE Unexpected CCS exit detected [1/29/14 3:23 PM]!!!
+
+!ENTRY org.eclipse.cdt.core 1 0 2014-02-05 15:44:26.716
+!MESSAGE Indexed 'Project3' (1 sources, 4 headers) in 0.37 sec: 173 declarations; 546 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0.00%)
+
+!ENTRY org.eclipse.cdt.core 4 0 2014-02-05 15:51:53.332
+!MESSAGE Error
+!STACK 0
+java.nio.channels.ClosedByInterruptException
+	at java.nio.channels.spi.AbstractInterruptibleChannel.end(Unknown Source)
+	at sun.nio.ch.FileChannelImpl.size(Unknown Source)
+	at org.eclipse.cdt.internal.core.parser.scanner.FileCharArray.create(FileCharArray.java:44)
+	at org.eclipse.cdt.internal.core.parser.InternalParserUtil.createFileContent(InternalParserUtil.java:247)
+	at org.eclipse.cdt.internal.core.parser.InternalParserUtil.createExternalFileContent(InternalParserUtil.java:233)
+	at org.eclipse.cdt.core.parser.FileContent.createForExternalFileLocation(FileContent.java:126)
+	at org.eclipse.cdt.core.parser.FileContent.createForExternalFileLocation(FileContent.java:118)
+	at org.eclipse.cdt.internal.core.parser.SavedFilesProvider.getContentForInclusion(SavedFilesProvider.java:42)
+	at org.eclipse.cdt.internal.core.parser.scanner.CPreprocessor$1.checkFile(CPreprocessor.java:157)
+	at org.eclipse.cdt.internal.core.parser.scanner.CPreprocessor$1.checkFile(CPreprocessor.java:1)
+	at org.eclipse.cdt.internal.core.parser.scanner.CPreprocessor.findInclusion(CPreprocessor.java:1093)
+	at org.eclipse.cdt.internal.core.parser.scanner.CPreprocessor.executeInclude(CPreprocessor.java:1472)
+	at org.eclipse.cdt.internal.core.parser.scanner.CPreprocessor.executeDirective(CPreprocessor.java:1248)
+	at org.eclipse.cdt.internal.core.parser.scanner.CPreprocessor.internalFetchToken(CPreprocessor.java:879)
+	at org.eclipse.cdt.internal.core.parser.scanner.CPreprocessor.fetchToken(CPreprocessor.java:603)
+	at org.eclipse.cdt.internal.core.parser.scanner.CPreprocessor.nextToken(CPreprocessor.java:700)
+	at org.eclipse.cdt.internal.core.dom.parser.AbstractGNUSourceCodeParser.fetchToken(AbstractGNUSourceCodeParser.java:273)
+	at org.eclipse.cdt.internal.core.dom.parser.AbstractGNUSourceCodeParser.nextToken(AbstractGNUSourceCodeParser.java:297)
+	at org.eclipse.cdt.internal.core.dom.parser.AbstractGNUSourceCodeParser.acceptInactiveCodeBoundary(AbstractGNUSourceCodeParser.java:358)
+	at org.eclipse.cdt.internal.core.dom.parser.AbstractGNUSourceCodeParser.declarationList(AbstractGNUSourceCodeParser.java:1319)
+	at org.eclipse.cdt.internal.core.dom.parser.AbstractGNUSourceCodeParser.parseTranslationUnit(AbstractGNUSourceCodeParser.java:1292)
+	at org.eclipse.cdt.internal.core.dom.parser.AbstractGNUSourceCodeParser.translationUnit(AbstractGNUSourceCodeParser.java:1287)
+	at org.eclipse.cdt.internal.core.dom.parser.AbstractGNUSourceCodeParser.parse(AbstractGNUSourceCodeParser.java:653)
+	at org.eclipse.cdt.core.dom.parser.AbstractCLikeLanguage.getASTTranslationUnit(AbstractCLikeLanguage.java:149)
+	at org.eclipse.cdt.internal.core.model.TranslationUnit.getAST(TranslationUnit.java:869)
+	at org.eclipse.cdt.internal.core.model.TranslationUnit.getAST(TranslationUnit.java:819)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.rtsc.xdctools.ui.contentassist.RTSCHelpProvider.getFunctionSummaries(Unknown Source)
+	at org.eclipse.rtsc.xdctools.ui.contentassist.RTSCHelpProvider.getFunctionInfo(Unknown Source)
+	at org.eclipse.rtsc.xdctools.ui.contentassist.RTSCHelpProvider.getFunctionInfo(Unknown Source)
+	at org.eclipse.cdt.internal.ui.text.CHelpSettings.getFunctionInfo(CHelpSettings.java:121)
+	at org.eclipse.cdt.internal.ui.CHelpProviderManager.getFunctionInfo(CHelpProviderManager.java:163)
+	at org.eclipse.cdt.internal.ui.text.c.hover.CDocHover.getHoverInfo(CDocHover.java:81)
+	at org.eclipse.cdt.internal.ui.text.c.hover.AbstractCEditorTextHover.getHoverInfo2(AbstractCEditorTextHover.java:84)
+	at org.eclipse.cdt.internal.ui.text.c.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:144)
+	at org.eclipse.cdt.internal.ui.text.c.hover.CEditorTextHoverProxy.getHoverInfo2(CEditorTextHoverProxy.java:84)
+	at org.eclipse.jface.text.TextViewerHoverManager$4.run(TextViewerHoverManager.java:166)
+
+!ENTRY org.eclipse.cdt.core 4 0 2014-02-05 15:51:53.337
+!MESSAGE Error
+!STACK 0
+java.nio.channels.ClosedByInterruptException
+	at java.nio.channels.spi.AbstractInterruptibleChannel.end(Unknown Source)
+	at sun.nio.ch.FileChannelImpl.size(Unknown Source)
+	at org.eclipse.cdt.internal.core.parser.scanner.FileCharArray.create(FileCharArray.java:44)
+	at org.eclipse.cdt.internal.core.parser.InternalParserUtil.createFileContent(InternalParserUtil.java:247)
+	at org.eclipse.cdt.internal.core.parser.InternalParserUtil.createExternalFileContent(InternalParserUtil.java:233)
+	at org.eclipse.cdt.core.parser.FileContent.createForExternalFileLocation(FileContent.java:126)
+	at org.eclipse.cdt.core.parser.FileContent.createForExternalFileLocation(FileContent.java:118)
+	at org.eclipse.cdt.internal.core.parser.SavedFilesProvider.getContentForInclusion(SavedFilesProvider.java:42)
+	at org.eclipse.cdt.internal.core.parser.scanner.CPreprocessor$1.checkFile(CPreprocessor.java:157)
+	at org.eclipse.cdt.internal.core.parser.scanner.CPreprocessor$1.checkFile(CPreprocessor.java:1)
+	at org.eclipse.cdt.internal.core.parser.scanner.CPreprocessor.findInclusion(CPreprocessor.java:1124)
+	at org.eclipse.cdt.internal.core.parser.scanner.CPreprocessor.executeInclude(CPreprocessor.java:1472)
+	at org.eclipse.cdt.internal.core.parser.scanner.CPreprocessor.executeDirective(CPreprocessor.java:1248)
+	at org.eclipse.cdt.internal.core.parser.scanner.CPreprocessor.internalFetchToken(CPreprocessor.java:879)
+	at org.eclipse.cdt.internal.core.parser.scanner.CPreprocessor.fetchToken(CPreprocessor.java:603)
+	at org.eclipse.cdt.internal.core.parser.scanner.CPreprocessor.nextToken(CPreprocessor.java:700)
+	at org.eclipse.cdt.internal.core.dom.parser.AbstractGNUSourceCodeParser.fetchToken(AbstractGNUSourceCodeParser.java:273)
+	at org.eclipse.cdt.internal.core.dom.parser.AbstractGNUSourceCodeParser.nextToken(AbstractGNUSourceCodeParser.java:297)
+	at org.eclipse.cdt.internal.core.dom.parser.AbstractGNUSourceCodeParser.acceptInactiveCodeBoundary(AbstractGNUSourceCodeParser.java:358)
+	at org.eclipse.cdt.internal.core.dom.parser.AbstractGNUSourceCodeParser.declarationList(AbstractGNUSourceCodeParser.java:1319)
+	at org.eclipse.cdt.internal.core.dom.parser.AbstractGNUSourceCodeParser.parseTranslationUnit(AbstractGNUSourceCodeParser.java:1292)
+	at org.eclipse.cdt.internal.core.dom.parser.AbstractGNUSourceCodeParser.translationUnit(AbstractGNUSourceCodeParser.java:1287)
+	at org.eclipse.cdt.internal.core.dom.parser.AbstractGNUSourceCodeParser.parse(AbstractGNUSourceCodeParser.java:653)
+	at org.eclipse.cdt.core.dom.parser.AbstractCLikeLanguage.getASTTranslationUnit(AbstractCLikeLanguage.java:149)
+	at org.eclipse.cdt.internal.core.model.TranslationUnit.getAST(TranslationUnit.java:869)
+	at org.eclipse.cdt.internal.core.model.TranslationUnit.getAST(TranslationUnit.java:819)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.rtsc.xdctools.ui.contentassist.RTSCHelpProvider.getFunctionSummaries(Unknown Source)
+	at org.eclipse.rtsc.xdctools.ui.contentassist.RTSCHelpProvider.getFunctionInfo(Unknown Source)
+	at org.eclipse.rtsc.xdctools.ui.contentassist.RTSCHelpProvider.getFunctionInfo(Unknown Source)
+	at org.eclipse.cdt.internal.ui.text.CHelpSettings.getFunctionInfo(CHelpSettings.java:121)
+	at org.eclipse.cdt.internal.ui.CHelpProviderManager.getFunctionInfo(CHelpProviderManager.java:163)
+	at org.eclipse.cdt.internal.ui.text.c.hover.CDocHover.getHoverInfo(CDocHover.java:81)
+	at org.eclipse.cdt.internal.ui.text.c.hover.AbstractCEditorTextHover.getHoverInfo2(AbstractCEditorTextHover.java:84)
+	at org.eclipse.cdt.internal.ui.text.c.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:144)
+	at org.eclipse.cdt.internal.ui.text.c.hover.CEditorTextHoverProxy.getHoverInfo2(CEditorTextHoverProxy.java:84)
+	at org.eclipse.jface.text.TextViewerHoverManager$4.run(TextViewerHoverManager.java:166)
+
+!ENTRY org.eclipse.cdt.core 4 0 2014-02-05 15:52:42.938
+!MESSAGE Error
+!STACK 0
+java.nio.channels.ClosedByInterruptException
+	at java.nio.channels.spi.AbstractInterruptibleChannel.end(Unknown Source)
+	at sun.nio.ch.FileChannelImpl.size(Unknown Source)
+	at org.eclipse.cdt.internal.core.parser.scanner.FileCharArray.create(FileCharArray.java:44)
+	at org.eclipse.cdt.internal.core.parser.InternalParserUtil.createFileContent(InternalParserUtil.java:247)
+	at org.eclipse.cdt.internal.core.parser.InternalParserUtil.createExternalFileContent(InternalParserUtil.java:233)
+	at org.eclipse.cdt.core.parser.FileContent.createForExternalFileLocation(FileContent.java:126)
+	at org.eclipse.cdt.core.parser.FileContent.createForExternalFileLocation(FileContent.java:118)
+	at org.eclipse.cdt.internal.core.parser.SavedFilesProvider.getContentForInclusion(SavedFilesProvider.java:42)
+	at org.eclipse.cdt.internal.core.parser.scanner.CPreprocessor$1.checkFile(CPreprocessor.java:157)
+	at org.eclipse.cdt.internal.core.parser.scanner.CPreprocessor$1.checkFile(CPreprocessor.java:1)
+	at org.eclipse.cdt.internal.core.parser.scanner.CPreprocessor.findInclusion(CPreprocessor.java:1093)
+	at org.eclipse.cdt.internal.core.parser.scanner.CPreprocessor.executeInclude(CPreprocessor.java:1472)
+	at org.eclipse.cdt.internal.core.parser.scanner.CPreprocessor.executeDirective(CPreprocessor.java:1248)
+	at org.eclipse.cdt.internal.core.parser.scanner.CPreprocessor.internalFetchToken(CPreprocessor.java:879)
+	at org.eclipse.cdt.internal.core.parser.scanner.CPreprocessor.fetchToken(CPreprocessor.java:603)
+	at org.eclipse.cdt.internal.core.parser.scanner.CPreprocessor.nextToken(CPreprocessor.java:700)
+	at org.eclipse.cdt.internal.core.dom.parser.AbstractGNUSourceCodeParser.fetchToken(AbstractGNUSourceCodeParser.java:273)
+	at org.eclipse.cdt.internal.core.dom.parser.AbstractGNUSourceCodeParser.nextToken(AbstractGNUSourceCodeParser.java:297)
+	at org.eclipse.cdt.internal.core.dom.parser.AbstractGNUSourceCodeParser.acceptInactiveCodeBoundary(AbstractGNUSourceCodeParser.java:358)
+	at org.eclipse.cdt.internal.core.dom.parser.AbstractGNUSourceCodeParser.declarationList(AbstractGNUSourceCodeParser.java:1319)
+	at org.eclipse.cdt.internal.core.dom.parser.AbstractGNUSourceCodeParser.parseTranslationUnit(AbstractGNUSourceCodeParser.java:1292)
+	at org.eclipse.cdt.internal.core.dom.parser.AbstractGNUSourceCodeParser.translationUnit(AbstractGNUSourceCodeParser.java:1287)
+	at org.eclipse.cdt.internal.core.dom.parser.AbstractGNUSourceCodeParser.parse(AbstractGNUSourceCodeParser.java:653)
+	at org.eclipse.cdt.core.dom.parser.AbstractCLikeLanguage.getASTTranslationUnit(AbstractCLikeLanguage.java:149)
+	at org.eclipse.cdt.internal.core.model.TranslationUnit.getAST(TranslationUnit.java:869)
+	at org.eclipse.cdt.internal.core.model.TranslationUnit.getAST(TranslationUnit.java:819)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.rtsc.xdctools.ui.contentassist.RTSCHelpProvider.getFunctionSummaries(Unknown Source)
+	at org.eclipse.rtsc.xdctools.ui.contentassist.RTSCHelpProvider.getFunctionInfo(Unknown Source)
+	at org.eclipse.rtsc.xdctools.ui.contentassist.RTSCHelpProvider.getFunctionInfo(Unknown Source)
+	at org.eclipse.cdt.internal.ui.text.CHelpSettings.getFunctionInfo(CHelpSettings.java:121)
+	at org.eclipse.cdt.internal.ui.CHelpProviderManager.getFunctionInfo(CHelpProviderManager.java:163)
+	at org.eclipse.cdt.internal.ui.text.c.hover.CDocHover.getHoverInfo(CDocHover.java:81)
+	at org.eclipse.cdt.internal.ui.text.c.hover.AbstractCEditorTextHover.getHoverInfo2(AbstractCEditorTextHover.java:84)
+	at org.eclipse.cdt.internal.ui.text.c.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:144)
+	at org.eclipse.cdt.internal.ui.text.c.hover.CEditorTextHoverProxy.getHoverInfo2(CEditorTextHoverProxy.java:84)
+	at org.eclipse.jface.text.TextViewerHoverManager$4.run(TextViewerHoverManager.java:166)
+
+!ENTRY org.eclipse.cdt.core 4 0 2014-02-05 15:52:42.942
+!MESSAGE Error
+!STACK 0
+java.nio.channels.ClosedByInterruptException
+	at java.nio.channels.spi.AbstractInterruptibleChannel.end(Unknown Source)
+	at sun.nio.ch.FileChannelImpl.size(Unknown Source)
+	at org.eclipse.cdt.internal.core.parser.scanner.FileCharArray.create(FileCharArray.java:44)
+	at org.eclipse.cdt.internal.core.parser.InternalParserUtil.createFileContent(InternalParserUtil.java:247)
+	at org.eclipse.cdt.internal.core.parser.InternalParserUtil.createExternalFileContent(InternalParserUtil.java:233)
+	at org.eclipse.cdt.core.parser.FileContent.createForExternalFileLocation(FileContent.java:126)
+	at org.eclipse.cdt.core.parser.FileContent.createForExternalFileLocation(FileContent.java:118)
+	at org.eclipse.cdt.internal.core.parser.SavedFilesProvider.getContentForInclusion(SavedFilesProvider.java:42)
+	at org.eclipse.cdt.internal.core.parser.scanner.CPreprocessor$1.checkFile(CPreprocessor.java:157)
+	at org.eclipse.cdt.internal.core.parser.scanner.CPreprocessor$1.checkFile(CPreprocessor.java:1)
+	at org.eclipse.cdt.internal.core.parser.scanner.CPreprocessor.findInclusion(CPreprocessor.java:1124)
+	at org.eclipse.cdt.internal.core.parser.scanner.CPreprocessor.executeInclude(CPreprocessor.java:1472)
+	at org.eclipse.cdt.internal.core.parser.scanner.CPreprocessor.executeDirective(CPreprocessor.java:1248)
+	at org.eclipse.cdt.internal.core.parser.scanner.CPreprocessor.internalFetchToken(CPreprocessor.java:879)
+	at org.eclipse.cdt.internal.core.parser.scanner.CPreprocessor.fetchToken(CPreprocessor.java:603)
+	at org.eclipse.cdt.internal.core.parser.scanner.CPreprocessor.nextToken(CPreprocessor.java:700)
+	at org.eclipse.cdt.internal.core.dom.parser.AbstractGNUSourceCodeParser.fetchToken(AbstractGNUSourceCodeParser.java:273)
+	at org.eclipse.cdt.internal.core.dom.parser.AbstractGNUSourceCodeParser.nextToken(AbstractGNUSourceCodeParser.java:297)
+	at org.eclipse.cdt.internal.core.dom.parser.AbstractGNUSourceCodeParser.acceptInactiveCodeBoundary(AbstractGNUSourceCodeParser.java:358)
+	at org.eclipse.cdt.internal.core.dom.parser.AbstractGNUSourceCodeParser.declarationList(AbstractGNUSourceCodeParser.java:1319)
+	at org.eclipse.cdt.internal.core.dom.parser.AbstractGNUSourceCodeParser.parseTranslationUnit(AbstractGNUSourceCodeParser.java:1292)
+	at org.eclipse.cdt.internal.core.dom.parser.AbstractGNUSourceCodeParser.translationUnit(AbstractGNUSourceCodeParser.java:1287)
+	at org.eclipse.cdt.internal.core.dom.parser.AbstractGNUSourceCodeParser.parse(AbstractGNUSourceCodeParser.java:653)
+	at org.eclipse.cdt.core.dom.parser.AbstractCLikeLanguage.getASTTranslationUnit(AbstractCLikeLanguage.java:149)
+	at org.eclipse.cdt.internal.core.model.TranslationUnit.getAST(TranslationUnit.java:869)
+	at org.eclipse.cdt.internal.core.model.TranslationUnit.getAST(TranslationUnit.java:819)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.rtsc.xdctools.ui.contentassist.RTSCHelpProvider.getFunctionSummaries(Unknown Source)
+	at org.eclipse.rtsc.xdctools.ui.contentassist.RTSCHelpProvider.getFunctionInfo(Unknown Source)
+	at org.eclipse.rtsc.xdctools.ui.contentassist.RTSCHelpProvider.getFunctionInfo(Unknown Source)
+	at org.eclipse.cdt.internal.ui.text.CHelpSettings.getFunctionInfo(CHelpSettings.java:121)
+	at org.eclipse.cdt.internal.ui.CHelpProviderManager.getFunctionInfo(CHelpProviderManager.java:163)
+	at org.eclipse.cdt.internal.ui.text.c.hover.CDocHover.getHoverInfo(CDocHover.java:81)
+	at org.eclipse.cdt.internal.ui.text.c.hover.AbstractCEditorTextHover.getHoverInfo2(AbstractCEditorTextHover.java:84)
+	at org.eclipse.cdt.internal.ui.text.c.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:144)
+	at org.eclipse.cdt.internal.ui.text.c.hover.CEditorTextHoverProxy.getHoverInfo2(CEditorTextHoverProxy.java:84)
+	at org.eclipse.jface.text.TextViewerHoverManager$4.run(TextViewerHoverManager.java:166)
+
+!ENTRY org.eclipse.cdt.core 4 0 2014-02-05 15:52:51.644
+!MESSAGE Error
+!STACK 0
+java.nio.channels.ClosedByInterruptException
+	at java.nio.channels.spi.AbstractInterruptibleChannel.end(Unknown Source)
+	at sun.nio.ch.FileChannelImpl.size(Unknown Source)
+	at org.eclipse.cdt.internal.core.parser.scanner.FileCharArray.create(FileCharArray.java:44)
+	at org.eclipse.cdt.internal.core.parser.InternalParserUtil.createFileContent(InternalParserUtil.java:247)
+	at org.eclipse.cdt.internal.core.parser.InternalParserUtil.createExternalFileContent(InternalParserUtil.java:233)
+	at org.eclipse.cdt.core.parser.FileContent.createForExternalFileLocation(FileContent.java:126)
+	at org.eclipse.cdt.core.parser.FileContent.createForExternalFileLocation(FileContent.java:118)
+	at org.eclipse.cdt.internal.core.parser.SavedFilesProvider.getContentForInclusion(SavedFilesProvider.java:42)
+	at org.eclipse.cdt.internal.core.parser.scanner.CPreprocessor$1.checkFile(CPreprocessor.java:157)
+	at org.eclipse.cdt.internal.core.parser.scanner.CPreprocessor$1.checkFile(CPreprocessor.java:1)
+	at org.eclipse.cdt.internal.core.parser.scanner.CPreprocessor.findInclusion(CPreprocessor.java:1093)
+	at org.eclipse.cdt.internal.core.parser.scanner.CPreprocessor.executeInclude(CPreprocessor.java:1472)
+	at org.eclipse.cdt.internal.core.parser.scanner.CPreprocessor.executeDirective(CPreprocessor.java:1248)
+	at org.eclipse.cdt.internal.core.parser.scanner.CPreprocessor.internalFetchToken(CPreprocessor.java:879)
+	at org.eclipse.cdt.internal.core.parser.scanner.CPreprocessor.fetchToken(CPreprocessor.java:603)
+	at org.eclipse.cdt.internal.core.parser.scanner.CPreprocessor.nextToken(CPreprocessor.java:700)
+	at org.eclipse.cdt.internal.core.dom.parser.AbstractGNUSourceCodeParser.fetchToken(AbstractGNUSourceCodeParser.java:273)
+	at org.eclipse.cdt.internal.core.dom.parser.AbstractGNUSourceCodeParser.nextToken(AbstractGNUSourceCodeParser.java:297)
+	at org.eclipse.cdt.internal.core.dom.parser.AbstractGNUSourceCodeParser.acceptInactiveCodeBoundary(AbstractGNUSourceCodeParser.java:358)
+	at org.eclipse.cdt.internal.core.dom.parser.AbstractGNUSourceCodeParser.declarationList(AbstractGNUSourceCodeParser.java:1319)
+	at org.eclipse.cdt.internal.core.dom.parser.AbstractGNUSourceCodeParser.parseTranslationUnit(AbstractGNUSourceCodeParser.java:1292)
+	at org.eclipse.cdt.internal.core.dom.parser.AbstractGNUSourceCodeParser.translationUnit(AbstractGNUSourceCodeParser.java:1287)
+	at org.eclipse.cdt.internal.core.dom.parser.AbstractGNUSourceCodeParser.parse(AbstractGNUSourceCodeParser.java:653)
+	at org.eclipse.cdt.core.dom.parser.AbstractCLikeLanguage.getASTTranslationUnit(AbstractCLikeLanguage.java:149)
+	at org.eclipse.cdt.internal.core.model.TranslationUnit.getAST(TranslationUnit.java:869)
+	at org.eclipse.cdt.internal.core.model.TranslationUnit.getAST(TranslationUnit.java:819)
+	at sun.reflect.GeneratedMethodAccessor50.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.rtsc.xdctools.ui.contentassist.RTSCHelpProvider.getFunctionSummaries(Unknown Source)
+	at org.eclipse.rtsc.xdctools.ui.contentassist.RTSCHelpProvider.getFunctionInfo(Unknown Source)
+	at org.eclipse.rtsc.xdctools.ui.contentassist.RTSCHelpProvider.getFunctionInfo(Unknown Source)
+	at org.eclipse.cdt.internal.ui.text.CHelpSettings.getFunctionInfo(CHelpSettings.java:121)
+	at org.eclipse.cdt.internal.ui.CHelpProviderManager.getFunctionInfo(CHelpProviderManager.java:163)
+	at org.eclipse.cdt.internal.ui.text.c.hover.CDocHover.getHoverInfo(CDocHover.java:81)
+	at org.eclipse.cdt.internal.ui.text.c.hover.AbstractCEditorTextHover.getHoverInfo2(AbstractCEditorTextHover.java:84)
+	at org.eclipse.cdt.internal.ui.text.c.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:144)
+	at org.eclipse.cdt.internal.ui.text.c.hover.CEditorTextHoverProxy.getHoverInfo2(CEditorTextHoverProxy.java:84)
+	at org.eclipse.jface.text.TextViewerHoverManager$4.run(TextViewerHoverManager.java:166)
+
+!ENTRY org.eclipse.cdt.core 4 0 2014-02-05 15:52:51.647
+!MESSAGE Error
+!STACK 0
+java.nio.channels.ClosedByInterruptException
+	at java.nio.channels.spi.AbstractInterruptibleChannel.end(Unknown Source)
+	at sun.nio.ch.FileChannelImpl.size(Unknown Source)
+	at org.eclipse.cdt.internal.core.parser.scanner.FileCharArray.create(FileCharArray.java:44)
+	at org.eclipse.cdt.internal.core.parser.InternalParserUtil.createFileContent(InternalParserUtil.java:247)
+	at org.eclipse.cdt.internal.core.parser.InternalParserUtil.createExternalFileContent(InternalParserUtil.java:233)
+	at org.eclipse.cdt.core.parser.FileContent.createForExternalFileLocation(FileContent.java:126)
+	at org.eclipse.cdt.core.parser.FileContent.createForExternalFileLocation(FileContent.java:118)
+	at org.eclipse.cdt.internal.core.parser.SavedFilesProvider.getContentForInclusion(SavedFilesProvider.java:42)
+	at org.eclipse.cdt.internal.core.parser.scanner.CPreprocessor$1.checkFile(CPreprocessor.java:157)
+	at org.eclipse.cdt.internal.core.parser.scanner.CPreprocessor$1.checkFile(CPreprocessor.java:1)
+	at org.eclipse.cdt.internal.core.parser.scanner.CPreprocessor.findInclusion(CPreprocessor.java:1124)
+	at org.eclipse.cdt.internal.core.parser.scanner.CPreprocessor.executeInclude(CPreprocessor.java:1472)
+	at org.eclipse.cdt.internal.core.parser.scanner.CPreprocessor.executeDirective(CPreprocessor.java:1248)
+	at org.eclipse.cdt.internal.core.parser.scanner.CPreprocessor.internalFetchToken(CPreprocessor.java:879)
+	at org.eclipse.cdt.internal.core.parser.scanner.CPreprocessor.fetchToken(CPreprocessor.java:603)
+	at org.eclipse.cdt.internal.core.parser.scanner.CPreprocessor.nextToken(CPreprocessor.java:700)
+	at org.eclipse.cdt.internal.core.dom.parser.AbstractGNUSourceCodeParser.fetchToken(AbstractGNUSourceCodeParser.java:273)
+	at org.eclipse.cdt.internal.core.dom.parser.AbstractGNUSourceCodeParser.nextToken(AbstractGNUSourceCodeParser.java:297)
+	at org.eclipse.cdt.internal.core.dom.parser.AbstractGNUSourceCodeParser.acceptInactiveCodeBoundary(AbstractGNUSourceCodeParser.java:358)
+	at org.eclipse.cdt.internal.core.dom.parser.AbstractGNUSourceCodeParser.declarationList(AbstractGNUSourceCodeParser.java:1319)
+	at org.eclipse.cdt.internal.core.dom.parser.AbstractGNUSourceCodeParser.parseTranslationUnit(AbstractGNUSourceCodeParser.java:1292)
+	at org.eclipse.cdt.internal.core.dom.parser.AbstractGNUSourceCodeParser.translationUnit(AbstractGNUSourceCodeParser.java:1287)
+	at org.eclipse.cdt.internal.core.dom.parser.AbstractGNUSourceCodeParser.parse(AbstractGNUSourceCodeParser.java:653)
+	at org.eclipse.cdt.core.dom.parser.AbstractCLikeLanguage.getASTTranslationUnit(AbstractCLikeLanguage.java:149)
+	at org.eclipse.cdt.internal.core.model.TranslationUnit.getAST(TranslationUnit.java:869)
+	at org.eclipse.cdt.internal.core.model.TranslationUnit.getAST(TranslationUnit.java:819)
+	at sun.reflect.GeneratedMethodAccessor50.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.rtsc.xdctools.ui.contentassist.RTSCHelpProvider.getFunctionSummaries(Unknown Source)
+	at org.eclipse.rtsc.xdctools.ui.contentassist.RTSCHelpProvider.getFunctionInfo(Unknown Source)
+	at org.eclipse.rtsc.xdctools.ui.contentassist.RTSCHelpProvider.getFunctionInfo(Unknown Source)
+	at org.eclipse.cdt.internal.ui.text.CHelpSettings.getFunctionInfo(CHelpSettings.java:121)
+	at org.eclipse.cdt.internal.ui.CHelpProviderManager.getFunctionInfo(CHelpProviderManager.java:163)
+	at org.eclipse.cdt.internal.ui.text.c.hover.CDocHover.getHoverInfo(CDocHover.java:81)
+	at org.eclipse.cdt.internal.ui.text.c.hover.AbstractCEditorTextHover.getHoverInfo2(AbstractCEditorTextHover.java:84)
+	at org.eclipse.cdt.internal.ui.text.c.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:144)
+	at org.eclipse.cdt.internal.ui.text.c.hover.CEditorTextHoverProxy.getHoverInfo2(CEditorTextHoverProxy.java:84)
+	at org.eclipse.jface.text.TextViewerHoverManager$4.run(TextViewerHoverManager.java:166)
+
+!ENTRY org.eclipse.cdt.core 4 0 2014-02-05 15:52:51.651
+!MESSAGE Error
+!STACK 0
+java.nio.channels.ClosedByInterruptException
+	at java.nio.channels.spi.AbstractInterruptibleChannel.end(Unknown Source)
+	at sun.nio.ch.FileChannelImpl.size(Unknown Source)
+	at org.eclipse.cdt.internal.core.parser.scanner.FileCharArray.create(FileCharArray.java:44)
+	at org.eclipse.cdt.internal.core.parser.InternalParserUtil.createFileContent(InternalParserUtil.java:247)
+	at org.eclipse.cdt.internal.core.parser.InternalParserUtil.createExternalFileContent(InternalParserUtil.java:233)
+	at org.eclipse.cdt.core.parser.FileContent.createForExternalFileLocation(FileContent.java:126)
+	at org.eclipse.cdt.core.parser.FileContent.createForExternalFileLocation(FileContent.java:118)
+	at org.eclipse.cdt.internal.core.parser.SavedFilesProvider.getContentForInclusion(SavedFilesProvider.java:42)
+	at org.eclipse.cdt.internal.core.parser.scanner.CPreprocessor$1.checkFile(CPreprocessor.java:157)
+	at org.eclipse.cdt.internal.core.parser.scanner.CPreprocessor$1.checkFile(CPreprocessor.java:1)
+	at org.eclipse.cdt.internal.core.parser.scanner.CPreprocessor.findInclusion(CPreprocessor.java:1124)
+	at org.eclipse.cdt.internal.core.parser.scanner.CPreprocessor.executeInclude(CPreprocessor.java:1472)
+	at org.eclipse.cdt.internal.core.parser.scanner.CPreprocessor.executeDirective(CPreprocessor.java:1248)
+	at org.eclipse.cdt.internal.core.parser.scanner.CPreprocessor.internalFetchToken(CPreprocessor.java:879)
+	at org.eclipse.cdt.internal.core.parser.scanner.CPreprocessor.fetchToken(CPreprocessor.java:603)
+	at org.eclipse.cdt.internal.core.parser.scanner.CPreprocessor.nextToken(CPreprocessor.java:700)
+	at org.eclipse.cdt.internal.core.dom.parser.AbstractGNUSourceCodeParser.fetchToken(AbstractGNUSourceCodeParser.java:273)
+	at org.eclipse.cdt.internal.core.dom.parser.AbstractGNUSourceCodeParser.nextToken(AbstractGNUSourceCodeParser.java:297)
+	at org.eclipse.cdt.internal.core.dom.parser.AbstractGNUSourceCodeParser.acceptInactiveCodeBoundary(AbstractGNUSourceCodeParser.java:358)
+	at org.eclipse.cdt.internal.core.dom.parser.AbstractGNUSourceCodeParser.declarationList(AbstractGNUSourceCodeParser.java:1319)
+	at org.eclipse.cdt.internal.core.dom.parser.AbstractGNUSourceCodeParser.parseTranslationUnit(AbstractGNUSourceCodeParser.java:1292)
+	at org.eclipse.cdt.internal.core.dom.parser.AbstractGNUSourceCodeParser.translationUnit(AbstractGNUSourceCodeParser.java:1287)
+	at org.eclipse.cdt.internal.core.dom.parser.AbstractGNUSourceCodeParser.parse(AbstractGNUSourceCodeParser.java:653)
+	at org.eclipse.cdt.core.dom.parser.AbstractCLikeLanguage.getASTTranslationUnit(AbstractCLikeLanguage.java:149)
+	at org.eclipse.cdt.internal.core.model.TranslationUnit.getAST(TranslationUnit.java:869)
+	at org.eclipse.cdt.internal.core.model.TranslationUnit.getAST(TranslationUnit.java:819)
+	at sun.reflect.GeneratedMethodAccessor50.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.rtsc.xdctools.ui.contentassist.RTSCHelpProvider.getFunctionSummaries(Unknown Source)
+	at org.eclipse.rtsc.xdctools.ui.contentassist.RTSCHelpProvider.getFunctionInfo(Unknown Source)
+	at org.eclipse.rtsc.xdctools.ui.contentassist.RTSCHelpProvider.getFunctionInfo(Unknown Source)
+	at org.eclipse.cdt.internal.ui.text.CHelpSettings.getFunctionInfo(CHelpSettings.java:121)
+	at org.eclipse.cdt.internal.ui.CHelpProviderManager.getFunctionInfo(CHelpProviderManager.java:163)
+	at org.eclipse.cdt.internal.ui.text.c.hover.CDocHover.getHoverInfo(CDocHover.java:81)
+	at org.eclipse.cdt.internal.ui.text.c.hover.AbstractCEditorTextHover.getHoverInfo2(AbstractCEditorTextHover.java:84)
+	at org.eclipse.cdt.internal.ui.text.c.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:144)
+	at org.eclipse.cdt.internal.ui.text.c.hover.CEditorTextHoverProxy.getHoverInfo2(CEditorTextHoverProxy.java:84)
+	at org.eclipse.jface.text.TextViewerHoverManager$4.run(TextViewerHoverManager.java:166)
+
+!ENTRY org.eclipse.cdt.core 4 0 2014-02-05 15:55:07.939
+!MESSAGE Error
+!STACK 0
+java.nio.channels.ClosedByInterruptException
+	at java.nio.channels.spi.AbstractInterruptibleChannel.end(Unknown Source)
+	at sun.nio.ch.FileChannelImpl.size(Unknown Source)
+	at org.eclipse.cdt.internal.core.parser.scanner.FileCharArray.create(FileCharArray.java:44)
+	at org.eclipse.cdt.internal.core.parser.InternalParserUtil.createFileContent(InternalParserUtil.java:247)
+	at org.eclipse.cdt.internal.core.parser.InternalParserUtil.createExternalFileContent(InternalParserUtil.java:233)
+	at org.eclipse.cdt.core.parser.FileContent.createForExternalFileLocation(FileContent.java:126)
+	at org.eclipse.cdt.core.parser.FileContent.createForExternalFileLocation(FileContent.java:118)
+	at org.eclipse.cdt.internal.core.parser.SavedFilesProvider.getContentForInclusion(SavedFilesProvider.java:42)
+	at org.eclipse.cdt.internal.core.parser.scanner.CPreprocessor$1.checkFile(CPreprocessor.java:157)
+	at org.eclipse.cdt.internal.core.parser.scanner.CPreprocessor$1.checkFile(CPreprocessor.java:1)
+	at org.eclipse.cdt.internal.core.parser.scanner.CPreprocessor.findInclusion(CPreprocessor.java:1124)
+	at org.eclipse.cdt.internal.core.parser.scanner.CPreprocessor.executeInclude(CPreprocessor.java:1472)
+	at org.eclipse.cdt.internal.core.parser.scanner.CPreprocessor.executeDirective(CPreprocessor.java:1248)
+	at org.eclipse.cdt.internal.core.parser.scanner.CPreprocessor.internalFetchToken(CPreprocessor.java:879)
+	at org.eclipse.cdt.internal.core.parser.scanner.CPreprocessor.fetchToken(CPreprocessor.java:603)
+	at org.eclipse.cdt.internal.core.parser.scanner.CPreprocessor.nextToken(CPreprocessor.java:700)
+	at org.eclipse.cdt.internal.core.dom.parser.AbstractGNUSourceCodeParser.fetchToken(AbstractGNUSourceCodeParser.java:273)
+	at org.eclipse.cdt.internal.core.dom.parser.AbstractGNUSourceCodeParser.nextToken(AbstractGNUSourceCodeParser.java:297)
+	at org.eclipse.cdt.internal.core.dom.parser.AbstractGNUSourceCodeParser.acceptInactiveCodeBoundary(AbstractGNUSourceCodeParser.java:358)
+	at org.eclipse.cdt.internal.core.dom.parser.AbstractGNUSourceCodeParser.declarationList(AbstractGNUSourceCodeParser.java:1319)
+	at org.eclipse.cdt.internal.core.dom.parser.AbstractGNUSourceCodeParser.parseTranslationUnit(AbstractGNUSourceCodeParser.java:1292)
+	at org.eclipse.cdt.internal.core.dom.parser.AbstractGNUSourceCodeParser.translationUnit(AbstractGNUSourceCodeParser.java:1287)
+	at org.eclipse.cdt.internal.core.dom.parser.AbstractGNUSourceCodeParser.parse(AbstractGNUSourceCodeParser.java:653)
+	at org.eclipse.cdt.core.dom.parser.AbstractCLikeLanguage.getASTTranslationUnit(AbstractCLikeLanguage.java:149)
+	at org.eclipse.cdt.internal.core.model.TranslationUnit.getAST(TranslationUnit.java:869)
+	at org.eclipse.cdt.internal.core.model.TranslationUnit.getAST(TranslationUnit.java:819)
+	at sun.reflect.GeneratedMethodAccessor50.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.rtsc.xdctools.ui.contentassist.RTSCHelpProvider.getFunctionSummaries(Unknown Source)
+	at org.eclipse.rtsc.xdctools.ui.contentassist.RTSCHelpProvider.getFunctionInfo(Unknown Source)
+	at org.eclipse.rtsc.xdctools.ui.contentassist.RTSCHelpProvider.getFunctionInfo(Unknown Source)
+	at org.eclipse.cdt.internal.ui.text.CHelpSettings.getFunctionInfo(CHelpSettings.java:121)
+	at org.eclipse.cdt.internal.ui.CHelpProviderManager.getFunctionInfo(CHelpProviderManager.java:163)
+	at org.eclipse.cdt.internal.ui.text.c.hover.CDocHover.getHoverInfo(CDocHover.java:81)
+	at org.eclipse.cdt.internal.ui.text.c.hover.AbstractCEditorTextHover.getHoverInfo2(AbstractCEditorTextHover.java:84)
+	at org.eclipse.cdt.internal.ui.text.c.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:144)
+	at org.eclipse.cdt.internal.ui.text.c.hover.CEditorTextHoverProxy.getHoverInfo2(CEditorTextHoverProxy.java:84)
+	at org.eclipse.jface.text.TextViewerHoverManager$4.run(TextViewerHoverManager.java:166)
+
+!ENTRY org.eclipse.cdt.core 4 0 2014-02-05 15:55:19.333
+!MESSAGE Error
+!STACK 0
+java.nio.channels.ClosedByInterruptException
+	at java.nio.channels.spi.AbstractInterruptibleChannel.end(Unknown Source)
+	at sun.nio.ch.FileChannelImpl.size(Unknown Source)
+	at org.eclipse.cdt.internal.core.parser.scanner.FileCharArray.create(FileCharArray.java:44)
+	at org.eclipse.cdt.internal.core.parser.InternalParserUtil.createFileContent(InternalParserUtil.java:247)
+	at org.eclipse.cdt.internal.core.parser.InternalParserUtil.createExternalFileContent(InternalParserUtil.java:233)
+	at org.eclipse.cdt.core.parser.FileContent.createForExternalFileLocation(FileContent.java:126)
+	at org.eclipse.cdt.core.parser.FileContent.createForExternalFileLocation(FileContent.java:118)
+	at org.eclipse.cdt.internal.core.parser.SavedFilesProvider.getContentForInclusion(SavedFilesProvider.java:42)
+	at org.eclipse.cdt.internal.core.parser.scanner.CPreprocessor$1.checkFile(CPreprocessor.java:157)
+	at org.eclipse.cdt.internal.core.parser.scanner.CPreprocessor$1.checkFile(CPreprocessor.java:1)
+	at org.eclipse.cdt.internal.core.parser.scanner.CPreprocessor.findInclusion(CPreprocessor.java:1093)
+	at org.eclipse.cdt.internal.core.parser.scanner.CPreprocessor.executeInclude(CPreprocessor.java:1472)
+	at org.eclipse.cdt.internal.core.parser.scanner.CPreprocessor.executeDirective(CPreprocessor.java:1248)
+	at org.eclipse.cdt.internal.core.parser.scanner.CPreprocessor.internalFetchToken(CPreprocessor.java:879)
+	at org.eclipse.cdt.internal.core.parser.scanner.CPreprocessor.fetchToken(CPreprocessor.java:603)
+	at org.eclipse.cdt.internal.core.parser.scanner.CPreprocessor.nextToken(CPreprocessor.java:700)
+	at org.eclipse.cdt.internal.core.dom.parser.AbstractGNUSourceCodeParser.fetchToken(AbstractGNUSourceCodeParser.java:273)
+	at org.eclipse.cdt.internal.core.dom.parser.AbstractGNUSourceCodeParser.nextToken(AbstractGNUSourceCodeParser.java:297)
+	at org.eclipse.cdt.internal.core.dom.parser.AbstractGNUSourceCodeParser.acceptInactiveCodeBoundary(AbstractGNUSourceCodeParser.java:358)
+	at org.eclipse.cdt.internal.core.dom.parser.AbstractGNUSourceCodeParser.declarationList(AbstractGNUSourceCodeParser.java:1319)
+	at org.eclipse.cdt.internal.core.dom.parser.AbstractGNUSourceCodeParser.parseTranslationUnit(AbstractGNUSourceCodeParser.java:1292)
+	at org.eclipse.cdt.internal.core.dom.parser.AbstractGNUSourceCodeParser.translationUnit(AbstractGNUSourceCodeParser.java:1287)
+	at org.eclipse.cdt.internal.core.dom.parser.AbstractGNUSourceCodeParser.parse(AbstractGNUSourceCodeParser.java:653)
+	at org.eclipse.cdt.core.dom.parser.AbstractCLikeLanguage.getASTTranslationUnit(AbstractCLikeLanguage.java:149)
+	at org.eclipse.cdt.internal.core.model.TranslationUnit.getAST(TranslationUnit.java:869)
+	at org.eclipse.cdt.internal.core.model.TranslationUnit.getAST(TranslationUnit.java:819)
+	at sun.reflect.GeneratedMethodAccessor50.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.rtsc.xdctools.ui.contentassist.RTSCHelpProvider.getFunctionSummaries(Unknown Source)
+	at org.eclipse.rtsc.xdctools.ui.contentassist.RTSCHelpProvider.getFunctionInfo(Unknown Source)
+	at org.eclipse.rtsc.xdctools.ui.contentassist.RTSCHelpProvider.getFunctionInfo(Unknown Source)
+	at org.eclipse.cdt.internal.ui.text.CHelpSettings.getFunctionInfo(CHelpSettings.java:121)
+	at org.eclipse.cdt.internal.ui.CHelpProviderManager.getFunctionInfo(CHelpProviderManager.java:163)
+	at org.eclipse.cdt.internal.ui.text.c.hover.CDocHover.getHoverInfo(CDocHover.java:81)
+	at org.eclipse.cdt.internal.ui.text.c.hover.AbstractCEditorTextHover.getHoverInfo2(AbstractCEditorTextHover.java:84)
+	at org.eclipse.cdt.internal.ui.text.c.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:144)
+	at org.eclipse.cdt.internal.ui.text.c.hover.CEditorTextHoverProxy.getHoverInfo2(CEditorTextHoverProxy.java:84)
+	at org.eclipse.jface.text.TextViewerHoverManager$4.run(TextViewerHoverManager.java:166)
+
+!ENTRY org.eclipse.cdt.core 4 0 2014-02-05 15:55:19.336
+!MESSAGE Error
+!STACK 0
+java.nio.channels.ClosedByInterruptException
+	at java.nio.channels.spi.AbstractInterruptibleChannel.end(Unknown Source)
+	at sun.nio.ch.FileChannelImpl.size(Unknown Source)
+	at org.eclipse.cdt.internal.core.parser.scanner.FileCharArray.create(FileCharArray.java:44)
+	at org.eclipse.cdt.internal.core.parser.InternalParserUtil.createFileContent(InternalParserUtil.java:247)
+	at org.eclipse.cdt.internal.core.parser.InternalParserUtil.createExternalFileContent(InternalParserUtil.java:233)
+	at org.eclipse.cdt.core.parser.FileContent.createForExternalFileLocation(FileContent.java:126)
+	at org.eclipse.cdt.core.parser.FileContent.createForExternalFileLocation(FileContent.java:118)
+	at org.eclipse.cdt.internal.core.parser.SavedFilesProvider.getContentForInclusion(SavedFilesProvider.java:42)
+	at org.eclipse.cdt.internal.core.parser.scanner.CPreprocessor$1.checkFile(CPreprocessor.java:157)
+	at org.eclipse.cdt.internal.core.parser.scanner.CPreprocessor$1.checkFile(CPreprocessor.java:1)
+	at org.eclipse.cdt.internal.core.parser.scanner.CPreprocessor.findInclusion(CPreprocessor.java:1124)
+	at org.eclipse.cdt.internal.core.parser.scanner.CPreprocessor.executeInclude(CPreprocessor.java:1472)
+	at org.eclipse.cdt.internal.core.parser.scanner.CPreprocessor.executeDirective(CPreprocessor.java:1248)
+	at org.eclipse.cdt.internal.core.parser.scanner.CPreprocessor.internalFetchToken(CPreprocessor.java:879)
+	at org.eclipse.cdt.internal.core.parser.scanner.CPreprocessor.fetchToken(CPreprocessor.java:603)
+	at org.eclipse.cdt.internal.core.parser.scanner.CPreprocessor.nextToken(CPreprocessor.java:700)
+	at org.eclipse.cdt.internal.core.dom.parser.AbstractGNUSourceCodeParser.fetchToken(AbstractGNUSourceCodeParser.java:273)
+	at org.eclipse.cdt.internal.core.dom.parser.AbstractGNUSourceCodeParser.nextToken(AbstractGNUSourceCodeParser.java:297)
+	at org.eclipse.cdt.internal.core.dom.parser.AbstractGNUSourceCodeParser.acceptInactiveCodeBoundary(AbstractGNUSourceCodeParser.java:358)
+	at org.eclipse.cdt.internal.core.dom.parser.AbstractGNUSourceCodeParser.declarationList(AbstractGNUSourceCodeParser.java:1319)
+	at org.eclipse.cdt.internal.core.dom.parser.AbstractGNUSourceCodeParser.parseTranslationUnit(AbstractGNUSourceCodeParser.java:1292)
+	at org.eclipse.cdt.internal.core.dom.parser.AbstractGNUSourceCodeParser.translationUnit(AbstractGNUSourceCodeParser.java:1287)
+	at org.eclipse.cdt.internal.core.dom.parser.AbstractGNUSourceCodeParser.parse(AbstractGNUSourceCodeParser.java:653)
+	at org.eclipse.cdt.core.dom.parser.AbstractCLikeLanguage.getASTTranslationUnit(AbstractCLikeLanguage.java:149)
+	at org.eclipse.cdt.internal.core.model.TranslationUnit.getAST(TranslationUnit.java:869)
+	at org.eclipse.cdt.internal.core.model.TranslationUnit.getAST(TranslationUnit.java:819)
+	at sun.reflect.GeneratedMethodAccessor50.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.rtsc.xdctools.ui.contentassist.RTSCHelpProvider.getFunctionSummaries(Unknown Source)
+	at org.eclipse.rtsc.xdctools.ui.contentassist.RTSCHelpProvider.getFunctionInfo(Unknown Source)
+	at org.eclipse.rtsc.xdctools.ui.contentassist.RTSCHelpProvider.getFunctionInfo(Unknown Source)
+	at org.eclipse.cdt.internal.ui.text.CHelpSettings.getFunctionInfo(CHelpSettings.java:121)
+	at org.eclipse.cdt.internal.ui.CHelpProviderManager.getFunctionInfo(CHelpProviderManager.java:163)
+	at org.eclipse.cdt.internal.ui.text.c.hover.CDocHover.getHoverInfo(CDocHover.java:81)
+	at org.eclipse.cdt.internal.ui.text.c.hover.AbstractCEditorTextHover.getHoverInfo2(AbstractCEditorTextHover.java:84)
+	at org.eclipse.cdt.internal.ui.text.c.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:144)
+	at org.eclipse.cdt.internal.ui.text.c.hover.CEditorTextHoverProxy.getHoverInfo2(CEditorTextHoverProxy.java:84)
+	at org.eclipse.jface.text.TextViewerHoverManager$4.run(TextViewerHoverManager.java:166)
+
+!ENTRY org.eclipse.cdt.core 4 0 2014-02-05 15:55:19.342
+!MESSAGE Error
+!STACK 0
+java.nio.channels.ClosedByInterruptException
+	at java.nio.channels.spi.AbstractInterruptibleChannel.end(Unknown Source)
+	at sun.nio.ch.FileChannelImpl.size(Unknown Source)
+	at org.eclipse.cdt.internal.core.parser.scanner.FileCharArray.create(FileCharArray.java:44)
+	at org.eclipse.cdt.internal.core.parser.InternalParserUtil.createFileContent(InternalParserUtil.java:247)
+	at org.eclipse.cdt.internal.core.parser.InternalParserUtil.createExternalFileContent(InternalParserUtil.java:233)
+	at org.eclipse.cdt.core.parser.FileContent.createForExternalFileLocation(FileContent.java:126)
+	at org.eclipse.cdt.core.parser.FileContent.createForExternalFileLocation(FileContent.java:118)
+	at org.eclipse.cdt.internal.core.parser.SavedFilesProvider.getContentForInclusion(SavedFilesProvider.java:42)
+	at org.eclipse.cdt.internal.core.parser.scanner.CPreprocessor$1.checkFile(CPreprocessor.java:157)
+	at org.eclipse.cdt.internal.core.parser.scanner.CPreprocessor$1.checkFile(CPreprocessor.java:1)
+	at org.eclipse.cdt.internal.core.parser.scanner.CPreprocessor.findInclusion(CPreprocessor.java:1124)
+	at org.eclipse.cdt.internal.core.parser.scanner.CPreprocessor.executeInclude(CPreprocessor.java:1472)
+	at org.eclipse.cdt.internal.core.parser.scanner.CPreprocessor.executeDirective(CPreprocessor.java:1248)
+	at org.eclipse.cdt.internal.core.parser.scanner.CPreprocessor.internalFetchToken(CPreprocessor.java:879)
+	at org.eclipse.cdt.internal.core.parser.scanner.CPreprocessor.fetchToken(CPreprocessor.java:603)
+	at org.eclipse.cdt.internal.core.parser.scanner.CPreprocessor.nextToken(CPreprocessor.java:700)
+	at org.eclipse.cdt.internal.core.dom.parser.AbstractGNUSourceCodeParser.fetchToken(AbstractGNUSourceCodeParser.java:273)
+	at org.eclipse.cdt.internal.core.dom.parser.AbstractGNUSourceCodeParser.nextToken(AbstractGNUSourceCodeParser.java:297)
+	at org.eclipse.cdt.internal.core.dom.parser.AbstractGNUSourceCodeParser.acceptInactiveCodeBoundary(AbstractGNUSourceCodeParser.java:358)
+	at org.eclipse.cdt.internal.core.dom.parser.AbstractGNUSourceCodeParser.declarationList(AbstractGNUSourceCodeParser.java:1319)
+	at org.eclipse.cdt.internal.core.dom.parser.AbstractGNUSourceCodeParser.parseTranslationUnit(AbstractGNUSourceCodeParser.java:1292)
+	at org.eclipse.cdt.internal.core.dom.parser.AbstractGNUSourceCodeParser.translationUnit(AbstractGNUSourceCodeParser.java:1287)
+	at org.eclipse.cdt.internal.core.dom.parser.AbstractGNUSourceCodeParser.parse(AbstractGNUSourceCodeParser.java:653)
+	at org.eclipse.cdt.core.dom.parser.AbstractCLikeLanguage.getASTTranslationUnit(AbstractCLikeLanguage.java:149)
+	at org.eclipse.cdt.internal.core.model.TranslationUnit.getAST(TranslationUnit.java:869)
+	at org.eclipse.cdt.internal.core.model.TranslationUnit.getAST(TranslationUnit.java:819)
+	at sun.reflect.GeneratedMethodAccessor50.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.rtsc.xdctools.ui.contentassist.RTSCHelpProvider.getFunctionSummaries(Unknown Source)
+	at org.eclipse.rtsc.xdctools.ui.contentassist.RTSCHelpProvider.getFunctionInfo(Unknown Source)
+	at org.eclipse.rtsc.xdctools.ui.contentassist.RTSCHelpProvider.getFunctionInfo(Unknown Source)
+	at org.eclipse.cdt.internal.ui.text.CHelpSettings.getFunctionInfo(CHelpSettings.java:121)
+	at org.eclipse.cdt.internal.ui.CHelpProviderManager.getFunctionInfo(CHelpProviderManager.java:163)
+	at org.eclipse.cdt.internal.ui.text.c.hover.CDocHover.getHoverInfo(CDocHover.java:81)
+	at org.eclipse.cdt.internal.ui.text.c.hover.AbstractCEditorTextHover.getHoverInfo2(AbstractCEditorTextHover.java:84)
+	at org.eclipse.cdt.internal.ui.text.c.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:144)
+	at org.eclipse.cdt.internal.ui.text.c.hover.CEditorTextHoverProxy.getHoverInfo2(CEditorTextHoverProxy.java:84)
+	at org.eclipse.jface.text.TextViewerHoverManager$4.run(TextViewerHoverManager.java:166)
+
+!ENTRY com.ti.ccstudio.debug 1 0 2014-02-05 16:09:06.528
+!MESSAGE DS_ERROR: MSP430: GEL: Encountered a problem loading file: C:\Users\Sharlina\workspace_v5_5\Project3\Debug\Project3.out Could not open file
+

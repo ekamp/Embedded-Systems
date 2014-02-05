@@ -1,0 +1,49 @@
+#include <msp430.h> 
+
+/*
+ * main.c
+ */
+//#define led = 0x01;
+#pragma vector = PORT1_VECTOR
+//good programming practice -- remember to enable and disable interrupts
+//you must clear interrupt flags
+volatile const unsigned char led = 0x01;
+volatile const unsigned char inPin = 0x02;
+
+__interrupt void portInterrupt(void)
+{
+	P1OUT ^= 0x01;
+//	P1IFG &= ~0x10;
+
+}
+
+
+int main(void)
+{
+    WDTCTL = WDTPW + WDTHOLD;	// Stop watchdog timer
+
+	P1DIR = 0xFF;
+	P1SEL = 0;
+	P1OUT = 0;
+
+	//set up an input pin and an ourput in for the led
+	P1DIR |= led;
+	P1DIR &= ~(inPin);
+
+	//set up a pull down register
+	P1REN |= inPin;
+
+	//sets up the interrupt
+	P1IE |= inPin;
+
+	//enables all interrupts
+	__enable_interrupt();
+
+	while(1);
+
+//	if(P1IN & inPin)
+//	{
+//		portInterrupt();
+//	}
+
+}

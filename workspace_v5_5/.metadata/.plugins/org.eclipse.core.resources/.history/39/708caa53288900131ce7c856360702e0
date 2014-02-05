@@ -1,0 +1,29 @@
+#include <msp430.h> 
+
+/*
+ * main.c
+ */
+
+#pragma vector = PORT1_VECTOR
+//good programming practice -- remember to enable and disable interrupts
+//you must clear interrupt flags
+__interrupt void portInterrupt(void)
+{
+
+}
+
+
+int main(void)
+{
+    WDTCTL = WDTPW | WDTHOLD;	// Stop watchdog timer
+	
+	P1DIR = 0xFF;
+	P2DIR = 0xFF;
+	P1SEL = 0x00;
+	P2SEL = 0x00;
+	P1OUT = 0x00;
+	P2OUT = 0x00;
+
+
+	return 0;
+}
