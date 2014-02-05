@@ -19,10 +19,14 @@
     void main(void)
     {
       //set up the ports here
-      
+      //enable the watchdog timer interrupt and global interrupt
+      IE |= WDTIE;
+      __enable _interupt()
     }
     __interrupt void watchdog_ timer(void)
     {
       //If 1 second has passed toggle the LED
       //restore the reg
     }
+
+- The EDT is firing every 32ms
