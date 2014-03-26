@@ -123,6 +123,15 @@ Changing the clock speed will change the timer speed also skewing the timer
 - Turn unused I/O pins to output to prevent floating pins
 - Use pullup/pulldown resistors to prevent floating
 
+###Turning off all the pins in order to save power
+
+    P1DIR = 0xFF;
+    P2DIR = 0xFF;
+    P1SEL = 0x00;
+    P2SEL = 0x00;
+    P1OUT = 0x00;
+    P2OUT = 0x00;
+
 ###Low Power Mode Subsystems
 - SCG1 : System Clock Generator 1
     - Turns off the SMCLK and peripherals
