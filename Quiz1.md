@@ -32,7 +32,7 @@
     WDTCTL = WDTPW + WDTHOLD;
         
     //Set the direction of pin one          
-    P1DIR = 0xFF;
+    P1DIR = 0xFF; //Effectively turning it initially off
     //Set select for normal use
     P1SEL = 0;
     //Set the output default value to 0
@@ -48,6 +48,16 @@ The above code will setup Pin1 for input and set the output to the first LED</br
 Now if a user wishes to say togle the led or write to the first pin and change the value of the led they would do the following :
 
     P1OUT ^= led;
+
+</br>
+Additionally you can do the following in order to set input and output pins</br>
+
+    const unsigned char led = 0x01;
+    const unsigned char outFast = 0x10;
+    const unsigned char outSlow = 0x08;
+    const unsigned char inPin = 0x02;
+	
+The above will set the led to pin 0 2^0, outfast to 16 or pin 4 2^4 outslow to pin 3 2^3 and pin 1 2^1 to inPin
 
 
 ##Interrupts
