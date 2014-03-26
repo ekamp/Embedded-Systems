@@ -114,3 +114,39 @@ In order to utilize this timer we can setup an interrupt on the timer firing the
 The above will change the clock speed of your board from standard to 12 mhz can change to many different values.</br>
 Changing the clock speed will change the timer speed also skewing the timer
 
+##Low Power Mode
+- Power consumption is of big concern within electronics such as mobile, and computers
+- How we use the MSP430 will effect how much power it uses
+- Our board has 4 different low power modes that control the clock which will result in less power consumption
+
+###Turn off Inputs
+- Turn unused I/O pins to output to prevent floating pins
+- Use pullup/pulldown resistors to prevent floating
+
+###Low Power Mode Subsystems
+- SCG1 : System Clock Generator 1
+    - Turns off the SMCLK and peripherals
+- SCG1 : System Clock Generator 0
+    - Turns off DCO
+- OSCOFF
+    - Turns off the crystal oscillator 
+- CPUOFF
+    - Turns off the CPU
+
+###Low Power Modes
+- LPM0
+    - Turns off the cpu
+    - Goes from 360 micro amps to 56 micro amps
+- LPM2
+    - Turns off CPU and SMCLK
+    - Goes from 330 to 22
+- LPM3
+    - Turns off CPU, SMCLK, DCO
+    - Only uses .7 micro amps 
+- LPM4
+    - Turns off everything
+    - Down to .1 micro amps
+
+###Sleeping
+- In order to save power we can sleep portions of the board using interrupts to wake those portions up
+- LPM3 is the best one to use, LPM4 needs special interrupts to wake up from sleep
