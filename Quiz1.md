@@ -77,3 +77,40 @@ Now if a user wishes to say togle the led or write to the first pin and change t
     }
 
 The above code will setup an interrupt on port one and trigger the method shown when the value in port one is high
+
+##Timers
+- Watch Dog Timer is an example of a timer.
+- Basically something that will keep track of the passing of time based on the system clock
+
+###Setting up the WDT
+
+    //sets up a wdt on 32ms
+    WDTCTL = WDT_MDLY_32
+
+In order to utilize this timer we can setup an interrupt on the timer firing the interrupt ever x amount of time.
+
+    void main()
+    {
+      //Setup interrupt on wdt
+      IE1 |= WDT1E
+      //sets up a wdt on 32ms
+      WDTCTL = WDT_MDLY_32
+    }
+        
+    #pragma vector = WDT_VECTOR
+    __interrupt void watchdog_timer(void)
+    {
+      //Do something every 32ms
+      
+      //reset the timer
+      WDTCTL = WDT_MDLY_32
+    }
+    
+###Changing the clock speed
+
+    BCSCTL1 = CALBC1_12MHZ;
+    DCOCTL = CALDCO_12MHZ;
+    
+The above will change the clock speed of your board from standard to 12 mhz can change to many different values.</br>
+Changing the clock speed will change the timer speed also skewing the timer
+
