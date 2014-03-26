@@ -27,8 +27,11 @@
     volatile const unsigned char inPin = 0x08;
     //Sets led var to the actual LED
     volatile const unsigned char led = 0x01;
-    //Set the direction of pin one
-       
+        
+    //Also before running make sure the wdt is turned off
+    WDTCTL = WDTPW + WDTHOLD;
+        
+    //Set the direction of pin one          
     P1DIR = 0xFF;
     //Set select for normal use
     P1SEL = 0;
@@ -39,6 +42,21 @@
     P1DIR |= led;
     //Set the input for pin 1
     P1DIR &= ~(inPin);
+    
+
+The above code will setup Pin1 for input and set the output to the first LED</br>
+Now if a user wishes to say togle the led or write to the first pin and change the value of the led they would do the following :
+
+    P1OUT ^= led;
+
+
+##Interrupts
+- Interrupts are run when a value in a certain location is changed
+- When the Interrupt is triggered the current state is saved and it jumps to a location/method in code
+- Interrupts may mess up timing so turn them off in critical sections of code
+
+###Interrupt setup
+
     //Setup the pull down resistor
     P1REN |= inPin;
       
@@ -47,6 +65,15 @@
       
     //Enable all interrupts in this case only on pin one
     __enable_interrupt();
-    
 
-The above code will setup Pin1 for input and set the output to the first LED
+###Interrupt Method (Called when the value is changed)
+
+    #pragma vector = PORT1_VECTOR
+    __interrupt void portInterrupt(void)
+    {
+      //Some code here ^_^
+      //Make sure to clear the flag when you are done so the interrupt can be thrown again
+      P1IFG &= ~(inPin);
+    }
+
+The above code will setup an interrupt on port one and trigger the method shown when the value in port one is high
