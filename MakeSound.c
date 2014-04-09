@@ -4,19 +4,25 @@
 const float sawtooth_step = (1.0/period)*3*3.14159;	//leave, irrational quotient
 unsigned int sawtooth_counter = 0;
 
-#pragma vector=TIMER0_A0_VECTOR
-__interrupt void intA0(void) {
+// #pragma vector=TIMER0_A0_VECTOR
+// __interrupt void intA0(void) {
 
-	sawtooth_counter++;
+// 	sawtooth_counter++;
 	
-}
+// }
 
 #pragma vector=TIMER0_A1_VECTOR
 __interrupt void intA1(void) {
 
+	sawtooth_counter++;
+	TACCR1 = 0;
+	
 	if(sawtooth_counter == 36)
 	{
+	
 	  TACCR1 = TACCR0;
+	  sawtooth_counter = 0;
+	  
 	}
 }
 
@@ -52,10 +58,6 @@ int main(void) {
 	P1OUT = 0;
 	P1SEL = BIT6;
 
-
-	/*
-	 *
-	 */
 	TA0CCTL1 = OUTMOD_7 | CCIE;
 	__enable_interrupt();
 
